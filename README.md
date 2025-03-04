@@ -1,0 +1,2 @@
+# SQL-Homework
+Ödev1
